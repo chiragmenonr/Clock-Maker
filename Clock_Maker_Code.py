@@ -30,7 +30,7 @@ clck.forward(60)
 clck.right(180 - minute*6)
 
 clck.right(hour*30 + minute/2) # Turning the turtle to the direction of the hour hand
-clck.forward(e40) # Drawing the hour hand 
+clck.forward(40) # Drawing the hour hand 
 clck.left(180)
 
 clck.hideturtle() # Hiding the ugly turtle from sight
