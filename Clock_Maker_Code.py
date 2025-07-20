@@ -1,6 +1,7 @@
 import turtle
 
 wn = turtle.Screen()
+wn.title("Clock Display")
 clck = turtle.Turtle() # sets the variable for the turtle
 hour = int(input("Enter an hour here: " ))
 minute = int(input("Enter a minute here: "))
