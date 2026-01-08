@@ -64,12 +64,3 @@ This allows the hour hand to move smoothly between hour markers instead of jumpi
 * User input handling
 * Geometric reasoning with angles
 * Screen and turtle control
-
----
-
-If you want, I can:
-
-* Make it **shorter** or **more detailed**
-* Adjust the tone to sound more technical or more beginner-friendly
-* Add a **limitations** or **future improvements** section
-* Rename sections to fit a class assignment exactly
