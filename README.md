@@ -21,9 +21,9 @@ The drawing process is animated, allowing the viewer to see the clock being cons
 
 ## Visualization
 
-The animation below shows the clock face being drawn first, followed by a smooth transition to the minute hand and then the hour hand based on user input:
+The animation below shows the clock face being drawn first, followed by a transition to the minute hand and then the hour hand based on user input:
 
-[https://github.com/user-attachments/assets/your-gif-link-here](https://github.com/user-attachments/assets/your-gif-link-here)
+https://github.com/user-attachments/assets/d65e2c4c-ebee-41ce-8fa4-fc4c61398dde
 
 ---
 
